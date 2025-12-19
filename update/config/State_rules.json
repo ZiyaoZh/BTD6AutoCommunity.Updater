@@ -1,0 +1,293 @@
+[
+  {
+    "state": "LevelChallengingWithTipScreen",
+    "checks": [
+      { "x": 780, "y": 380, "color": "F34A12", "tolerance": 50 },
+      { "x": 780, "y": 760, "color": "5388D2", "tolerance": 50 },
+      { "x": 900, "y": 760, "color": "62E200", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "LevelChallengingWithTipScreen",
+    "checks": [
+      { "x": 820, "y": 330, "color": "F24710", "tolerance": 50 },
+      { "x": 820, "y": 760, "color": "D2D2D2", "tolerance": 50 },
+      { "x": 960, "y": 760, "color": "FFFFFF", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "LevelChallengingScreen",
+    "checks": [
+      { "x": 1910, "y": 40, "color": "B1814A", "tolerance": 50 },
+      { "x": 13, "y": 40, "color": "B1814A", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "LevelSettingScreen",
+    "checks": [
+      { "x": 1658, "y": 40, "color": "6A573C", "tolerance": 50 },
+      { "x": 13, "y": 40, "color": "62482E", "tolerance": 50 },
+      { "x": 580, "y": 240, "color": "BE945B", "tolerance": 50 },
+      { "x": 550, "y": 380, "color": "9F7843", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "LevelFailedScreen",
+    "checks": [
+      { "x": 722, "y": 383, "color": "6397D8", "tolerance": 50 },
+      { "x": 1213, "y": 383, "color": "6397D8", "tolerance": 50 },
+      { "x": 988, "y": 118, "color": "FFFFFF", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "ChestsOpenedScreen",
+    "checks": [
+      { "x": 960, "y": 180, "color": "121417", "tolerance": 50 },
+      { "x": 750, "y": 60, "color": "121417", "tolerance": 50 },
+      { "x": 1130, "y": 200, "color": "121417", "tolerance": 50 },
+      { "x": 1725, "y": 500, "color": "121417", "tolerance": 50 },
+      { "x": 884, "y": 1000, "color": "67E400", "tolerance": 50 },
+      { "x": 1037, "y": 1000, "color": "67E400", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "TwoChestsScreen",
+    "checks": [
+      { "x": 960, "y": 180, "color": "121417", "tolerance": 50 },
+      { "x": 750, "y": 60, "color": "121417", "tolerance": 50 },
+      { "x": 1130, "y": 200, "color": "121417", "tolerance": 50 },
+      { "x": 1725, "y": 500, "color": "121417", "tolerance": 50 },
+      { "x": 828, "y": 600, "color": "121417", "tolerance": 50, "not": true },
+      { "x": 1130, "y": 600, "color": "121417", "tolerance": 50, "not": true }
+    ]
+  },
+  {
+    "state": "ThreeChestsScreen",
+    "checks": [
+      { "x": 960, "y": 180, "color": "121417", "tolerance": 50 },
+      { "x": 750, "y": 60, "color": "121417", "tolerance": 50 },
+      { "x": 1130, "y": 200, "color": "121417", "tolerance": 50 },
+      { "x": 1725, "y": 500, "color": "121417", "tolerance": 50 },
+      { "x": 660, "y": 600, "color": "121417", "tolerance": 50, "not": true },
+      { "x": 1260, "y": 600, "color": "121417", "tolerance": 50, "not": true }
+    ]
+  },
+  {
+    "state": "GameMainScreen",
+    "checks": [
+      { "x": 966, "y": 945, "color": "FFFFFF", "tolerance": 50 },
+      { "x": 1382, "y": 942, "color": "FFFFFF", "tolerance": 50 },
+      { "x": 80, "y": 186, "color": "C4E8EB", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "LevelSearchedScreen",
+    "checks": [
+      { "x": 983, "y": 48, "color": "385373", "tolerance": 50 },
+      { "x": 778, "y": 43, "color": "578CD4", "tolerance": 50 },
+      { "x": 962, "y": 837, "color": "409FFF", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "LevelSearchScreen",
+    "checks": [
+      { "x": 983, "y": 48, "color": "385373", "tolerance": 50 },
+      { "x": 778, "y": 43, "color": "578CD4", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "LevelSelectionScreen",
+    "checks": [
+      { "x": 68, "y": 54, "color": "FFFFFF", "tolerance": 50 },
+      { "x": 273, "y": 432, "color": "FFD500", "tolerance": 50 },
+      { "x": 1649, "y": 432, "color": "FFD500", "tolerance": 50 },
+      { "x": 1313, "y": 960, "color": "FF3400", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "LevelDifficultySelectionScreen",
+    "checks": [
+      { "x": 68, "y": 54, "color": "FFFFFF", "tolerance": 50 },
+      { "x": 716, "y": 627, "color": "9F7842", "tolerance": 50 },
+      { "x": 1049, "y": 627, "color": "9F7842", "tolerance": 50 },
+      { "x": 1388, "y": 627, "color": "9F7842", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "LevelEasyModeSelectionScreen",
+    "checks": [
+      { "x": 68, "y": 54, "color": "FFFFFF", "tolerance": 50 },
+      { "x": 820, "y": 40, "color": "804A24", "tolerance": 50 },
+      { "x": 1200, "y": 40, "color": "804A24", "tolerance": 50 },
+      { "x": 720, "y": 50, "color": "F2C776", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "LevelMediumModeSelectionScreen",
+    "checks": [
+      { "x": 68, "y": 54, "color": "FFFFFF", "tolerance": 50 },
+      { "x": 820, "y": 40, "color": "804A24", "tolerance": 50 },
+      { "x": 1200, "y": 40, "color": "804A24", "tolerance": 50 },
+      { "x": 720, "y": 50, "color": "C6DFEB", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "LevelHardModeSelectionScreen",
+    "checks": [
+      { "x": 68, "y": 54, "color": "FFFFFF", "tolerance": 50 },
+      { "x": 820, "y": 40, "color": "804A24", "tolerance": 50 },
+      { "x": 1200, "y": 40, "color": "804A24", "tolerance": 50 },
+      { "x": 720, "y": 50, "color": "FFED00", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "HeroSelectionScreen",
+    "checks": [
+      { "x": 68, "y": 54, "color": "FFFFFF", "tolerance": 50 },
+      { "x": 1601, "y": 1005, "color": "FFFFFF", "tolerance": 50 },
+      { "x": 636, "y": 51, "color": "FFFFFF", "tolerance": 50 },
+      { "x": 1900, "y": 1060, "color": "050505", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "EventsScreen",
+    "checks": [
+      { "x": 68, "y": 54, "color": "FFFFFF", "tolerance": 50 },
+      { "x": 750, "y": 60, "color": "996633", "tolerance": 50 },
+      { "x": 1190, "y": 60, "color": "996633", "tolerance": 50 },
+      { "x": 600, "y": 320, "color": "E2E2E2", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "EventInfoScreen",
+    "checks": [
+      { "x": 68, "y": 54, "color": "FFFFFF", "tolerance": 50 },
+      { "x": 750, "y": 60, "color": "996633", "tolerance": 50 },
+      { "x": 1190, "y": 60, "color": "996633", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "CollectionActivitiesAvailableScreen",
+    "checks": [
+      { "x": 750, "y": 60, "color": "BF330B", "tolerance": 50 },
+      { "x": 1100, "y": 60, "color": "BF330B", "tolerance": 50 },
+      { "x": 885, "y": 681, "color": "67E200", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "CollectionActivitiesAvailableScreen",
+    "checks": [
+      { "x": 750, "y": 60, "color": "CD78FF", "tolerance": 50 },
+      { "x": 1100, "y": 60, "color": "CD78FF", "tolerance": 50 },
+      { "x": 885, "y": 681, "color": "67E200", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "CollectionActivitiesAvailableScreen",
+    "checks": [
+      { "x": 750, "y": 60, "color": "912DC9", "tolerance": 50 },
+      { "x": 1100, "y": 60, "color": "912DC9", "tolerance": 50 },
+      { "x": 885, "y": 681, "color": "67E200", "tolerance": 50 }
+    ]
+  },
+    {
+    "state": "CollectionActivitiesAvailableScreen",
+    "checks": [
+      { "x": 750, "y": 60, "color": "FFD400", "tolerance": 50 },
+      { "x": 1100, "y": 60, "color": "FFD400", "tolerance": 50 },
+      { "x": 885, "y": 681, "color": "67E200", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "CollectionActivitiesScreen",
+    "checks": [
+      { "x": 750, "y": 60, "color": "BF330B", "tolerance": 50 },
+      { "x": 1100, "y": 60, "color": "BF330B", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "CollectionActivitiesScreen",
+    "checks": [
+      { "x": 750, "y": 60, "color": "CD78FF", "tolerance": 50 },
+      { "x": 1100, "y": 60, "color": "CD78FF", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "CollectionActivitiesScreen",
+    "checks": [
+      { "x": 750, "y": 60, "color": "912DC9", "tolerance": 50 },
+      { "x": 1100, "y": 60, "color": "912DC9", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "CollectionActivitiesScreen",
+    "checks": [
+      { "x": 750, "y": 60, "color": "FFD400", "tolerance": 50 },
+      { "x": 1100, "y": 60, "color": "FFD400", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "LevelSettlementScreen",
+    "checks": [
+      { "x": 555, "y": 197, "color": "FFFFFF", "tolerance": 50 },
+      { "x": 1365, "y": 324, "color": "FFFFFF", "tolerance": 50 },
+      { "x": 791, "y": 193, "color": "F34A12", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "LevelPassedScreen",
+    "checks": [
+      { "x": 555, "y": 197, "color": "FFFFFF", "tolerance": 50 },
+      { "x": 1221, "y": 152, "color": "FFFFFF", "tolerance": 50 },
+      { "x": 585, "y": 579, "color": "5F93D7", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "LevelUpgradingScreen",
+    "checks": [
+      { "x": 1910, "y": 40, "color": "543E2A", "tolerance": 50 },
+      { "x": 13, "y": 40, "color": "543E2A", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "LevelTipScreen",
+    "checks": [
+      { "x": 1080, "y": 400, "color": "71E800", "tolerance": 50 },
+      { "x": 1080, "y": 500, "color": "6095D7", "tolerance": 50 },
+      { "x": 1080, "y": 725, "color": "69E500", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "InstaScreen",
+    "checks": [
+      { "x": 50, "y": 50, "color": "010001", "tolerance": 50 },
+      { "x": 1870, "y": 50, "color": "010001", "tolerance": 50 },
+      { "x": 750, "y": 200, "color": "991112", "tolerance": 50 },
+      { "x": 1150, "y": 200, "color": "991112", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "RaceResultsScreen",
+    "checks": [
+      { "x": 880, "y": 830, "color": "61E200", "tolerance": 50 },
+      { "x": 700, "y": 350, "color": "F34A12", "tolerance": 50 },
+      { "x": 500, "y": 390, "color": "6599D9", "tolerance": 50 },
+      { "x": 830, "y": 570, "color": "FFD200", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "BossResultsScreen",
+    "checks": [
+      { "x": 500, "y": 140, "color": "6B1000", "tolerance": 50 },
+      { "x": 800, "y": 205, "color": "118FB3", "tolerance": 50 },
+      { "x": 1400, "y": 140, "color": "6B1000", "tolerance": 50 },
+      { "x": 1150, "y": 205, "color": "118FB3", "tolerance": 50 }
+    ]
+  },
+  {
+    "state": "ReturnableScreen",
+    "checks": [
+      { "x": 68, "y": 54, "color": "FFFFFF", "tolerance": 50 }
+    ]
+  }
+]
