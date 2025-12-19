@@ -1,0 +1,14 @@
+{
+  "version": "2.6.1",
+  "force": false,
+  "changelog": "新增地图规则文件",
+
+  "files": [
+    {
+      "path": "config/State_rules.json"
+    }
+  ],
+
+  "delete": [
+  ]
+}
