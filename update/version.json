@@ -4,6 +4,10 @@
   "changelog": "新增在线更新功能，后期脚本发布可自行更新，无需依赖群文件！",
 
   "files": [
+    {
+      "path": "BTD6AutoCommunity.exe",
+      "sha256": "3d4fa5e05d9a6a5c770543346701fe500bbbc35b75b0e62e023d936254eaf152"
+    }
   ],
 
   "delete": [
