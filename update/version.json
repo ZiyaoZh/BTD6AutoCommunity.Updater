@@ -1,13 +1,9 @@
 {
-  "version": "2.6.4",
+  "version": "3.0.0",
   "force": false,
-  "changelog": "test2",
+  "changelog": "新增在线更新功能，后期脚本发布可自行更新，无需依赖群文件！",
 
   "files": [
-    {
-      "path": "data/我的脚本/海岸/中级/标准-昆西-竞速1%.btd6",
-      "sha256": "6052ac813c053d1687c45ca86db278c9af840bc09c8a28b45ae7426b99f50db7"
-    }
   ],
 
   "delete": [
