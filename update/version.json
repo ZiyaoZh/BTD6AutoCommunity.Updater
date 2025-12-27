@@ -1,7 +1,7 @@
 {
   "version": "3.0.1",
   "force": false,
-  "changelog": "新增在线更新功能，后期脚本发布可自行更新，无需依赖群文件！",
+  "changelog": "新增鬼脸南瓜竞速脚本",
 
   "files": [
     {
