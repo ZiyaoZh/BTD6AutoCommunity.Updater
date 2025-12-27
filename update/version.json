@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0",
+  "version": "3.0.1",
   "force": false,
   "changelog": "新增在线更新功能，后期脚本发布可自行更新，无需依赖群文件！",
 
@@ -7,6 +7,10 @@
     {
       "path": "BTD6AutoCommunity.exe",
       "sha256": "3d4fa5e05d9a6a5c770543346701fe500bbbc35b75b0e62e023d936254eaf152"
+    },
+    {
+      "path": "data/我的脚本/鬼脸南瓜/中级/标准-上尉丘吉尔-竞速1%.btd6",
+      "sha256": "18f207341f485e5b530070c6699daecf6061c1caac8b80f9592aa8c93221696a"
     }
   ],
 
