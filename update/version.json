@@ -1,16 +1,12 @@
 {
-  "version": "3.0.1",
+  "version": "3.1.0",
   "force": false,
-  "changelog": "新增鬼脸南瓜竞速脚本",
+  "changelog": "1.优化UI界面\n2.新增暂停、继续功能\n3.修改启动/终止快捷键为f10\n4.新增读屏标记功能",
 
   "files": [
     {
       "path": "BTD6AutoCommunity.exe",
-      "sha256": "3d4fa5e05d9a6a5c770543346701fe500bbbc35b75b0e62e023d936254eaf152"
-    },
-    {
-      "path": "data/我的脚本/鬼脸南瓜/中级/标准-上尉丘吉尔-竞速1%.btd6",
-      "sha256": "18f207341f485e5b530070c6699daecf6061c1caac8b80f9592aa8c93221696a"
+      "sha256": "09542a0bb11992fed67e62dd951d0680927901a51ed4dfd925fc9131f1aa7c1d"
     }
   ],
 
