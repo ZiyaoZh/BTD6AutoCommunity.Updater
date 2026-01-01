@@ -1,12 +1,12 @@
 {
-  "version": "3.1.0",
+  "version": "3.1.1",
   "force": false,
-  "changelog": "1.优化UI界面\n2.新增暂停、继续功能\n3.修改启动/终止快捷键为f10\n4.新增读屏标记功能\n5.优化选项保存功能，做出的修改将自动保存",
+  "changelog": "窗口与分辨率坐标精度提升，误差控制在一个像素点内",
 
   "files": [
     {
       "path": "BTD6AutoCommunity.exe",
-      "sha256": "09542a0bb11992fed67e62dd951d0680927901a51ed4dfd925fc9131f1aa7c1d"
+      "sha256": "77f8ae823e8b296dd644221491055df19b7936a3698e50984a9adc044996b992"
     }
   ],
 
