@@ -1,12 +1,16 @@
 {
-  "version": "3.1.1",
+  "version": "3.1.2",
   "force": false,
-  "changelog": "窗口与分辨率坐标精度提升，误差控制在一个像素点内",
+  "changelog": "窗口与分辨率坐标精度提升，误差控制在一个像素点内\n新增2026.1.3日竞速脚本",
 
   "files": [
     {
       "path": "BTD6AutoCommunity.exe",
       "sha256": "77f8ae823e8b296dd644221491055df19b7936a3698e50984a9adc044996b992"
+    },
+    {
+      "path": "data/我的脚本/高级金融/中级/标准-本杰明-竞速1%.btd6",
+      "sha256": "d047549b04ff9467b2f1fef0d7ee93c3f532daa316423bfe061a995bd8d9fad0"
     }
   ],
 
