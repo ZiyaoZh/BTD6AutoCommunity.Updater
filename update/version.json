@@ -1,12 +1,12 @@
 {
-  "version": "3.2.0",
+  "version": "3.2.1",
   "force": false,
   "changelog": "1.重做了脚本编辑器选择坐标的功能，提升了性能\n2.btd6脚本升级，坐标全部改为浮点数存储，精度提升\n3.新增脚本包文件btd6s，可以一次性导入超多脚本，后续黑框脚本会用此方式发布\n4.优化了内存、线程管理，(应该)修复了许多人刷关中遇到的卡顿问题",
 
   "files": [
     {
       "path": "BTD6AutoCommunity.exe",
-      "sha256": "0c37e3f6f565aea0eca0cb2435f94053927be23a25cc6fb354158b0328c49fab"
+      "sha256": "4ba151e6fabe68f546fea2d8c4b44910dedce1bd1670d25b3b61dcd67de65428"
     },
     {
       "path": "config/State_rules.json",
