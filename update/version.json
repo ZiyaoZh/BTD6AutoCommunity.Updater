@@ -1,16 +1,20 @@
 {
-  "version": "3.2.1",
+  "version": "3.2.2",
   "force": false,
-  "changelog": "1.重做了脚本编辑器选择坐标的功能，提升了性能\n2.btd6脚本升级，坐标全部改为浮点数存储，精度提升\n3.新增脚本包文件btd6s，可以一次性导入超多脚本，后续黑框脚本会用此方式发布\n4.优化了内存、线程管理，(应该)修复了许多人刷关中遇到的卡顿问题",
+  "changelog": "1.重做了脚本编辑器选择坐标的功能，提升了性能\n2.btd6脚本升级，坐标全部改为浮点数存储，精度提升\n3.新增脚本包文件btd6s，可以一次性导入超多脚本，后续黑框脚本会用此方式发布\n4.优化了内存、线程管理，(应该)修复了许多人刷关中遇到的卡顿问题\n5.修复了刷黑框模式的诸多bug，包括徽章识别问题，模式选择卡住的问题等",
 
   "files": [
     {
       "path": "BTD6AutoCommunity.exe",
-      "sha256": "4ba151e6fabe68f546fea2d8c4b44910dedce1bd1670d25b3b61dcd67de65428"
+      "sha256": "fdfcc54bc5237c216ad5e06dc48560f047f9c7bf0d973d21ed863143dbf10a1b"
     },
     {
       "path": "config/State_rules.json",
       "sha256": "5714478f49d495ac99caf474150b8469ea1a6ae9b3472878d146ed6959f7cfe3"
+    },
+    {
+      "path": "data/templates/maps/16.png",
+      "sha256": "d475ef49beaf17d179fa7dde16449eab5b576dcea08b06af743cf7e05bef04f3"
     }
   ],
 
