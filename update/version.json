@@ -1,16 +1,12 @@
 {
-  "version": "3.2.3",
+  "version": "3.3.0",
   "force": false,
-  "changelog": "新增2026/1/8日树桩竞速",
+  "changelog": "修复了刷黑框诸多问题",
 
   "files": [
     {
       "path": "BTD6AutoCommunity.exe",
-      "sha256": "fdfcc54bc5237c216ad5e06dc48560f047f9c7bf0d973d21ed863143dbf10a1b"
-    },
-    {
-      "path": "data/我的脚本/树桩/中级/标准-灵机-竞速1%.btd6",
-      "sha256": "bddaa7e552e53b70a2ecec1b6d795823ba525d305693206ae7256aa15aab6643"
+      "sha256": "85e8641e51a2fb92e8273003fecbaf77241b291f84ee640584b85bfc605a4f5f"
     },
     {
       "path": "config/State_rules.json",
@@ -19,6 +15,10 @@
     {
       "path": "data/templates/maps/16.png",
       "sha256": "d475ef49beaf17d179fa7dde16449eab5b576dcea08b06af743cf7e05bef04f3"
+    },
+    {
+      "path": "data/templates/maps/50.png",
+      "sha256": "143308a47803b4fc1a7592532eb01244143e24316c94a5ac2e9d8eb4c6ab8918"
     }
   ],
 
