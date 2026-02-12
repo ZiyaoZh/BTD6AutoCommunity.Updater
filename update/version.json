@@ -1,16 +1,20 @@
 {
-  "version": "3.3.0",
+  "version": "3.3.1",
   "force": false,
-  "changelog": "修复了刷黑框诸多问题",
+  "changelog": "适配游戏53版本，包括新地图，新皮肤",
 
   "files": [
     {
       "path": "BTD6AutoCommunity.exe",
-      "sha256": "85e8641e51a2fb92e8273003fecbaf77241b291f84ee640584b85bfc605a4f5f"
+      "sha256": "7142e2eee59d1287ce05e8eecae09b0dfbc4c9654535ed29ac05d163d7572601"
     },
     {
       "path": "config/State_rules.json",
       "sha256": "2e0149cd231ab6587f219ed76e1a1d7545a18c456a6145945da89f035f7a18b4"
+    },
+    {
+      "path": "data/templates/heros/1-3.png",
+      "sha256": "22430611d88a8d13c2cff5657fc32cbbafd27a1fdd213fc92113cf19ca33803a"
     },
     {
       "path": "data/templates/maps/16.png",
@@ -19,6 +23,10 @@
     {
       "path": "data/templates/maps/50.png",
       "sha256": "143308a47803b4fc1a7592532eb01244143e24316c94a5ac2e9d8eb4c6ab8918"
+    },
+    {
+      "path": "data/templates/maps/81.png",
+      "sha256": "e22b8c6a8ec3c8d05410dc18387dce705933421c31d44fb67847c39342060a8a"
     }
   ],
 
