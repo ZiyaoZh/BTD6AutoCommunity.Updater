@@ -1,12 +1,12 @@
 {
-  "version": "3.3.2",
+  "version": "3.3.3",
   "force": false,
-  "changelog": "适配游戏53版本，包括新地图，新皮肤，修复设置英雄功能指令的bug",
+  "changelog": "修复收集模式脚本加载bug",
 
   "files": [
     {
       "path": "BTD6AutoCommunity.exe",
-      "sha256": "25c43847bcde257bbc4bcad03cc377c4ba9ff1a9134d5393efdcd065172811b3"
+      "sha256": "b6846a4032bef775fc12b52ed8921648dc7643792e2570840cdeec2b2ef4ebef"
     },
     {
       "path": "config/State_rules.json",
