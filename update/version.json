@@ -1,12 +1,11 @@
 {
-  "version": "3.3.3",
+  "version": "3.3.4",
   "force": false,
-  "changelog": "修复收集模式脚本加载bug",
-
+  "changelog": "同步更新至游戏v54版本，新增“蘑菇洞窟地图”，脚本后续添加；\n修复循环刷关会卡在地图选择的bug",
   "files": [
     {
       "path": "BTD6AutoCommunity.exe",
-      "sha256": "b6846a4032bef775fc12b52ed8921648dc7643792e2570840cdeec2b2ef4ebef"
+      "sha256": "f4875cada18d0e1df421d11ad17985ece168226fb55dd5acbafdc7d64ba8aa44"
     },
     {
       "path": "config/State_rules.json",
@@ -29,7 +28,5 @@
       "sha256": "e22b8c6a8ec3c8d05410dc18387dce705933421c31d44fb67847c39342060a8a"
     }
   ],
-
-  "delete": [
-  ]
+  "delete": []
 }
