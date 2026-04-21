@@ -1,7 +1,7 @@
 {
-  "version": "3.3.4",
+  "version": "3.3.5",
   "force": false,
-  "changelog": "同步更新至游戏v54版本，新增“蘑菇洞窟地图”，脚本后续添加；\n修复循环刷关会卡在地图选择的bug",
+  "changelog": "修复新版insta界面无法识别的问题！",
   "files": [
     {
       "path": "BTD6AutoCommunity.exe",
@@ -9,7 +9,7 @@
     },
     {
       "path": "config/State_rules.json",
-      "sha256": "2e0149cd231ab6587f219ed76e1a1d7545a18c456a6145945da89f035f7a18b4"
+      "sha256": "b05ea5593be94b972b80bfd46afb5d8a8d9aff605712e1d923bf523a502bcd4c"
     },
     {
       "path": "data/templates/heros/1-3.png",
